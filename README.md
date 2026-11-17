@@ -9,10 +9,9 @@ A console-based C++ application for a courier company. RouteWise manages custome
 
 ## Team
 
-|Name :Hafiza Ayesha Sarfraz|Roll No:Umama Amir|
+|Name: HAFIZA AYESHA SARFRAZ|Roll No: 25F-6566|
 |-|-|
-|||
-|*Teammate Name:25F-6566*|*Teammate Roll No.25F-3061*|
+|*Teammate Name: UMAMA AMIR*|*Teammate Roll :No.25F-3061*|
 
 \---
 
@@ -143,7 +142,7 @@ RouteWise/
 ├── StatsOps.h             Menu options 16, 17
 │
 ├── routewise\_data.txt     Sample dataset
-└── docs/screenshots/      Screenshots
+└── docs/      Screenshots
 ```
 
 \---
@@ -241,19 +240,19 @@ Rotations done            -         4
 
 ## Screenshots
 
-> Add your own screenshots to `docs/screenshots/` using these names.
+> Add your own screenshots to `docs/` using these names.
 
 |Feature|Screenshot|
 |-|-|
-|Main menu|!\[Main menu](docs/screenshots/01-main-menu.png)|
-|Parcel registration|!\[Parcel registration](docs/screenshots/02-parcel-registration.png)|
-|Tracking lookup (hash table)|!\[Tracking lookup](docs/screenshots/03-tracking-lookup.png)|
-|Priority dispatching|!\[Priority dispatching](docs/screenshots/04-priority-dispatch.png)|
-|Undo|!\[Undo](docs/screenshots/05-undo.png)|
-|Route optimization (shortest path)|!\[Route optimization](docs/screenshots/06-route-optimization.png)|
-|BFS / DFS traversal|!\[BFS and DFS](docs/screenshots/07-bfs-dfs.png)|
-|Minimum spanning tree|!\[Minimum spanning tree](docs/screenshots/08-minimum-network.png)|
-|BST vs AVL comparison|!\[BST vs AVL](docs/screenshots/09-bst-vs-avl.png)|
+|Main menu|!\[Main menu](docs/01-main-menu.png)|
+|Parcel registration|!\[Parcel registration](docs/02-parcel-registration.png)|
+|Tracking lookup (hash table)|!\[Tracking lookup](docs/03-tracking-lookup.png)|
+|Priority dispatching|!\[Priority dispatching](docs/04-priority-dispatch.png)|
+|Undo|!\[Undo](docs/05-undo.png)|
+|Route optimization (shortest path)|!\[Route optimization](docs/06-route-optimization.png)|
+|BFS / DFS traversal|!\[BFS and DFS](docs/07-bfs-dfs.png)|
+|Minimum spanning tree|!\[Minimum spanning tree](docs/08-minimum-network.png)|
+|BST vs AVL comparison|!\[BST vs AVL](docs/09-bst-vs-avl.png)|
 
 \---
 
