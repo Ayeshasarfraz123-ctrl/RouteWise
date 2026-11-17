@@ -1,0 +1,41 @@
+# RouteWise sample data
+# Locations must come first, then roads, customers and parcels.
+#
+# L|location name
+# R|location A|location B|distance in km
+# C|name|phone|address                 (customers get ID 1, 2, 3 ... in this order)
+# P|customer ID|source|destination|weight kg|priority (1 = low, 5 = high)
+
+L|Warehouse
+L|City Center
+L|University
+L|Hospital
+L|Airport
+L|Railway Station
+L|Industrial Area
+L|Residential Area
+
+R|Warehouse|City Center|5
+R|Warehouse|Industrial Area|4
+R|City Center|University|6
+R|City Center|Hospital|3
+R|City Center|Railway Station|4
+R|University|Airport|7
+R|Hospital|Residential Area|5
+R|Railway Station|Airport|10
+R|Industrial Area|Railway Station|6
+R|Residential Area|Airport|8
+
+C|Ali Khan|0300-1234567|Gulshan, Karachi
+C|Sara Ahmed|0321-7654321|Clifton, Karachi
+C|Usman Raza|0333-1112223|DHA Phase 5, Karachi
+C|Fatima Noor|0345-9998887|North Nazimabad, Karachi
+
+P|1|Warehouse|Airport|2.5|3
+P|2|Warehouse|Hospital|1.0|5
+P|2|Warehouse|University|4.2|1
+P|3|Warehouse|Residential Area|3.0|2
+P|4|Warehouse|Railway Station|0.8|5
+P|1|Warehouse|City Center|6.5|4
+P|3|Warehouse|Industrial Area|12.0|1
+P|4|Warehouse|Airport|1.5|3
