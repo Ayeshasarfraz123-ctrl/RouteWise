@@ -242,17 +242,18 @@ Rotations done            -         4
 
 > Add your own screenshots to `docs/` using these names.
 
-|Feature|Screenshot|
-|-|-|
-|Main menu|!\[Main menu](docs/01-main-menu.png)|
-|Parcel registration|!\[Parcel registration](docs/02-parcel-registration.png)|
-|Tracking lookup (hash table)|!\[Tracking lookup](docs/03-tracking-lookup.png)|
-|Priority dispatching|!\[Priority dispatching](docs/04-priority-dispatch.png)|
-|Undo|!\[Undo](docs/05-undo.png)|
-|Route optimization (shortest path)|!\[Route optimization](docs/06-route-optimization.png)|
-|BFS / DFS traversal|!\[BFS and DFS](docs/07-bfs-dfs.png)|
-|Minimum spanning tree|!\[Minimum spanning tree](docs/08-minimum-network.png)|
-|BST vs AVL comparison|!\[BST vs AVL](docs/09-bst-vs-avl.png)|
+| Feature | Screenshot |
+|---|---|
+| Main menu | ![Main menu](docs/01-main-menu.png) |
+| Parcel registration | ![Parcel registration](docs/02-parcel-registration.png) |
+| Tracking lookup (hash table) | ![Tracking lookup](docs/03-tracking-lookup.png) |
+| Priority dispatching | ![Dispatch 1](docs/04a-priority-dispatch.png) ![Dispatch 2](docs/04b-priority-dispatch.png) ![Dispatch 3](docs/04c-priority-dispatch.png) |
+| Undo | ![Undo](docs/05-undo.png) |
+| Route optimization (shortest path) | ![Route optimization](docs/06-route-optimization.png) |
+| BFS / DFS traversal | ![BFS](docs/07a-bfs-dfs.png) ![DFS](docs/07b-bfs-dfs.png) |
+| Minimum spanning tree | ![Minimum spanning tree](docs/08-minimum-network.png) |
+| BST vs AVL comparison | ![BST vs AVL 1](docs/09a-bst-vs-avl.png) ![BST vs AVL 2](docs/09b-bst-vs-avl.png) |
+| Program exit | ![Finish](docs/Finish.png) |
 
 \---
 
