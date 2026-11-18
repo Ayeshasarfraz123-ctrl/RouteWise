@@ -4,8 +4,9 @@ A console-based C++ application for a courier company. RouteWise manages custome
 
 **Every data structure is written from scratch.** No STL containers (`vector`, `list`, `stack`, `queue`, `map`, `set`, `priority\_queue`, ...) are used anywhere. The only libraries included are `iostream`, `fstream`, `string` and `iomanip`.
 
-> \*\*Course:\*\* CL2001 – Data Structures Lab, National University of Computer and Emerging Sciences
-> \*\*Platform:\*\* Console application, C++11 or newer
+>
+>  Course: CL2001 – Data Structures Lab, National University of Computer and Emerging Sciences
+> Platform: Console application, C++11 or newer
 
 ## Team
 
