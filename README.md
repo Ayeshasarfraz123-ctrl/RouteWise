@@ -339,4 +339,7 @@ Tracking IDs are issued in increasing order (1001, 1002, ...). Inserting sorted 
 * Roads are two-way and distances are whole kilometres.
 * Tracking IDs and customer IDs are given automatically, not typed by the user.
 * Ideas for later: saving data to a file, dispatcher and administrator login roles, a graphical map, exporting completed deliveries, parcel deletion with AVL rebalancing.
+* 
+## Testing notes
+Tested with the sample data file routewise_data.txt: 8 locations, 4 customers, 8 parcels. Verified dispatch order, undo, shortest route and minimum network
 
