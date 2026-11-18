@@ -153,7 +153,7 @@ RouteWise/
 ### Visual Studio (Windows)
 
 1. Open the solution, or create a **Console App (C++)** project and add all the `.h` files and `main.cpp`.
-2. Make sure `routewise\_data.txt` is in the **same folder as `main.cpp`** (the project folder).
+2. Make sure `routewise_data.txt` is in the **same folder as `main.cpp`** (the project folder).
 3. Press **Ctrl + F5**.
 
 ### g++ (Linux, macOS, or MinGW on Windows)
@@ -163,9 +163,9 @@ g++ -std=c++11 -o routewise main.cpp
 ./routewise            # on Windows: routewise.exe
 ```
 
-Run the program from the folder that contains `routewise\_data.txt`. If the file is not found, the program asks for another file name, or you can press Enter to start with an empty system.
+Run the program from the folder that contains `routewise_data.txt`. If the file is not found, the program asks for another file name, or you can press Enter to start with an empty system.
 
-\---
+---
 
 ## Data file format
 
