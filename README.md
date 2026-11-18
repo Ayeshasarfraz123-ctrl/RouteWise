@@ -11,7 +11,7 @@ A console-based C++ application for a courier company. RouteWise manages custome
 
 |Name: HAFIZA AYESHA SARFRAZ|Roll No: 25F-6566|
 |-|-|
-|*Teammate Name: UMAMA AMIR*|*Teammate Roll :No.25F-3061*|
+|*Teammate Name: UMAMA AMIR*|*Teammate Roll NO: 25F-3061*|
 
 \---
 
